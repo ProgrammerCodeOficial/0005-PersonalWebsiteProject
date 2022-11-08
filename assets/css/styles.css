@@ -30,7 +30,7 @@ header .menu {
 
 header .menu-line {
     height: 3px;
-    background-color: rgb(0, 0, 0);
+    background-color: #FFF;
 }
 
 .container {
@@ -136,6 +136,7 @@ footer a {
         position: initial;
         color: #5f060a;
         font-size: 12px;
+        text-align: center;
     }
 
     footer a {
